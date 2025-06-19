@@ -1,7 +1,7 @@
 # GPS tracking protocol
 
 Communication protocol between Ruptela's GPS tracking devices and TCP server in Node.js.
-This protocol supports only command IDs 1 and 68 for now.
+This protocol supports only command IDs 1, 68 and 14 for now.
 
 ## Usage
 
